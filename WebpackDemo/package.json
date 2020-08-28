@@ -1,0 +1,24 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "webpack4",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Paulpalpa/Paul_WebStudy.git"
+  },
+  "author": "\"Paul\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulpalpa/Paul_WebStudy/issues"
+  },
+  "homepage": "https://github.com/Paulpalpa/Paul_WebStudy#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
