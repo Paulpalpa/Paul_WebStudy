@@ -104,7 +104,7 @@ eval("console.log(\"hello\");\n\n//# sourceURL=webpack:///./public/index.js?");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log(\"index2.js\");\n\n//# sourceURL=webpack:///./public/index2.js?");
+eval("console.log(\"index2231.js\");\n\n//# sourceURL=webpack:///./public/index2.js?");
 
 /***/ }),
 

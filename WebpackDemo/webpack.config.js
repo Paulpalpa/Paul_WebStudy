@@ -12,5 +12,13 @@ module.exports = {
 		host:'localhost', //服务器的ip地址
 		port:7777,  //端口
 		open:true  //自动打开页面
+	},
+	module:{
+		rules:[
+			{
+				test:/\.css$/,
+				use:['style-loader','css-loader']
+			}
+		]
 	}
 }
